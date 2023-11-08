@@ -15,6 +15,7 @@ I'm a front-end developer and I'm great at building websites.
 
 - html
 - Css
+- SCSS
 - JavaScript
 - React
 - CSSS Lass Less
